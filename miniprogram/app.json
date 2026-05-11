@@ -1,0 +1,10 @@
+{
+  "pages": ["pages/login/index","pages/home/index","pages/job-coach/index","pages/resume-optimize/index","pages/interview/index","pages/subscription/index"],
+  "window": { "navigationBarTitleText": "AI 求职助手", "navigationBarBackgroundColor": "#1a5276", "navigationBarTextStyle": "white", "backgroundColor": "#f5f7fa" },
+  "tabBar": { "color": "#8791a9", "selectedColor": "#1a5276", "list": [
+    { "pagePath": "pages/home/index", "text": "首页" },
+    { "pagePath": "pages/job-coach/index", "text": "求职" },
+    { "pagePath": "pages/subscription/index", "text": "我的" }
+  ]},
+  "style": "v2"
+}
